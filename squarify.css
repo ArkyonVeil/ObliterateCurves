@@ -1,0 +1,5 @@
+@layer obliterate-curves {
+	*, ::before, ::after {
+		border-radius: 0 !important;
+	}
+}
